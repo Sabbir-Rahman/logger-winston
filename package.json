@@ -1,0 +1,20 @@
+{
+  "name": "logger_winston",
+  "version": "1.0.0",
+  "description": "- DATADOG - solarwinks loggly - splunk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabbir-Rahman/logger-winston.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sabbir-Rahman/logger-winston/issues"
+  },
+  "homepage": "https://github.com/Sabbir-Rahman/logger-winston#readme"
+}
